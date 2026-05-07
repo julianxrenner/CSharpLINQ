@@ -10,6 +10,7 @@ var myBuildings = new List<Building>{
 };
 
 var calculatedTaxes = myBuildings.Select(building => building.TaxPerSize * building.Size);
+var querySyntaxCalculatedTaxes = from building in myBuildings select building.TaxPerSize * building.Size;
 foreach (var tax in calculatedTaxes)
 {
   Console.WriteLine(tax);
@@ -17,7 +18,15 @@ foreach (var tax in calculatedTaxes)
 
 Console.WriteLine("");
 
+foreach (var tax in querySyntaxCalculatedTaxes)
+{
+  Console.WriteLine(tax);
+}
+
+Console.WriteLine("");
+
 var totalTaxes = myBuildings.Select(building=>building.Size * building.TaxPerSize).Sum();
+var querySyntaxTotalTaxes = (from building in myBuildings select building.Size * building.TaxPerSize).Sum();
 Console.WriteLine(totalTaxes);
 
 Console.WriteLine("");
