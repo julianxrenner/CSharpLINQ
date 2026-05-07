@@ -13,4 +13,8 @@ foreach (var tax in calculatedTaxes)
   Console.WriteLine(tax);
 }
 
+var totalTaxes = myBuildings.Select(building=>building.Size * building.TaxPerSize).Sum();
+
+Console.WriteLine(totalTaxes);
+
 record Building(int Size, int TaxPerSize, string Name);

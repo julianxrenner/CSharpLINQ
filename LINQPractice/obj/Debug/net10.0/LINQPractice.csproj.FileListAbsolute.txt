@@ -12,3 +12,4 @@
 /Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.pdb
 /Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.genruntimeconfig.cache
 /Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/ref/LINQPractice.dll
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.sourcelink.json
