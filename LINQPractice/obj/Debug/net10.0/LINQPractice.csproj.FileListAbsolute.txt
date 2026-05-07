@@ -1,0 +1,14 @@
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/bin/Debug/net10.0/LINQPractice
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/bin/Debug/net10.0/LINQPractice.deps.json
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/bin/Debug/net10.0/LINQPractice.runtimeconfig.json
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/bin/Debug/net10.0/LINQPractice.dll
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/bin/Debug/net10.0/LINQPractice.pdb
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.AssemblyInfoInputs.cache
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.AssemblyInfo.cs
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.csproj.CoreCompileInputs.cache
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.dll
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/refint/LINQPractice.dll
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.pdb
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/LINQPractice.genruntimeconfig.cache
+/Users/julianxrenner/csharp/CSharpLINQ/LINQPractice/obj/Debug/net10.0/ref/LINQPractice.dll
